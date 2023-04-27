@@ -1,2 +1,2 @@
 def sum_function():
-    return "Bzdruty"
+    return "Pierwszy prgramisa"
